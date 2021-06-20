@@ -1,9 +1,9 @@
 * {
   box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
 }
 
 html {
-  font-size: sans-serif;
   background: #1f1f1f;
 }
 
